@@ -1,5 +1,5 @@
 # CSE-90026 Assignments
-A collection of projects and assignments for UC San Diego - Extension's `156778 Futures: Introduction to Swift Programming` course.
+A collection of projects and assignments for UC San Diego - Extension's `CSE-90026 Futures: Introduction to Swift Programming` course.
 
 ## Assignments
 | Lesson  | Assignment |
