@@ -4,4 +4,5 @@ A collection of projects and assignments for UC San Diego - Extension's `CSE-900
 ## Assignments
 | Lesson  | Assignment |
 | --- | --- |
-| 1  | [Print Playground](Lessons/1/Playground/Print.playground) |
+| 1  | [Print Playground](Lessons/1/Playground/Print.swift) |
+| 2  | [Variables Playground](Lessons/2/Playground/Variables.swift) |
